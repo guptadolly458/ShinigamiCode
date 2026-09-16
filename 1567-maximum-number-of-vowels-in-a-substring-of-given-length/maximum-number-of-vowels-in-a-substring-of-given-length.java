@@ -3,7 +3,6 @@ class Solution {
         int n = s.length();
         int l  = 0;
         int max = 0;
-        int sum = 0;
         int count = 0;
         for(int r = 0;r<n;r++){
             char ch = s.charAt(r);
