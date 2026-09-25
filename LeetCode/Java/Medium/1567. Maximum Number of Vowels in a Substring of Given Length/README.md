@@ -8,8 +8,8 @@
 String, Sliding Window
 
 ### 🚀 Performance
-- **Runtime:** 11 ms
-- **Memory:** 46.3 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
