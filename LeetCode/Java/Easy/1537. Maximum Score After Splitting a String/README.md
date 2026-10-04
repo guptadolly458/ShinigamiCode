@@ -8,7 +8,7 @@
 String, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** 73 ms
+- **Runtime:** 1 ms
 - **Memory:** 42.5 MB
 
 ---
