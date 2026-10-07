@@ -1,10 +1,11 @@
 class Solution {
     public int scoreOfString(String s) {
-       int str = s.length();
-       int sum = 0;
-       for(int i = 0;i<str-1;i++){
-        sum += Math.abs(s.charAt(i)-s.charAt(i+1));
-       }
-       return sum;
+        int sc = 0;
+
+        for (int i = 0; i < s.length() - 1; i++) {
+            sc += Math.abs(s.charAt(i) - s.charAt(i + 1));
+        }
+
+        return sc;
     }
 }
